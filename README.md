@@ -1,5 +1,5 @@
 # Shikibetsu
-Deep Transfer Learning for Person Re-Identification. 
+Deep Transfer Learning for Person Re-Identification. (abhi shuru nahi kia, kal aana bhaiya)
 
 Basenet: GoogLeNet, pretrained on Imagenet.
 
